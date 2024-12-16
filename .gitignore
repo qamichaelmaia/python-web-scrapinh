@@ -2,3 +2,4 @@ MACOSX/
 dist/
 venv/
 .zip/
+.exe/
